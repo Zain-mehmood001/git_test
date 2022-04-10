@@ -1,2 +1,4 @@
 This is being typed in the other file. 
 Hello world! :p
+10th April 2022 11:59 pm I started working again on The Odin project.
+I will try my best to learn a little each day.
